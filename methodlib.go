@@ -1,4 +1,4 @@
-package methodlib
+package http_api_lib
 
 import "strings"
 

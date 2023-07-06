@@ -34,7 +34,7 @@ package healthCheck
 
 import (
 	"net/http"
-	"yourpath/methodlib" // replace with the correct import path
+	"github.com/Hotels-Baby/http-api_lib/methodlib" // replace with the correct import path
 )
 
 type HealthCheck struct {

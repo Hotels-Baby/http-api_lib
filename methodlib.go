@@ -1,4 +1,4 @@
-package http_api_lib
+package http_api_toolbox
 
 import "strings"
 
